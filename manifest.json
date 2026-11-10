@@ -7,7 +7,7 @@
     "versions"
   ],
   "provisionalUntil": "a full IG Publisher run",
-  "generatedAt": "2026-11-10T19:27:54.170134194Z",
+  "generatedAt": "2026-11-10T22:51:33.202351979Z",
   "ig": {
     "root": ".",
     "version": "4.0.1"
@@ -17,7 +17,7 @@
   },
   "inputs": {
     "toolchain": "ig-publisher 3.0.0 / core 7.0.1",
-    "sourceRevision": "41f88d0d0a9893738be5cc994bde101f0041aff2",
+    "sourceRevision": "6c0d8137a4895fb8a563e277e20fe4e9997b437e",
     "inputDigest": "cedcc2713fac24bbceb925f6dfc8d4fd00bbfb2c1a11ac635e7997775217b7f6"
   },
   "packages": [
@@ -154,7 +154,7 @@
       "resourceType": "ImplementationGuide",
       "id": "smart.who.int.dak-smbp",
       "name": "DAKSmbp",
-      "file": "resources/ImplementationGuide/smart.who.int.dak-smbp--394d9c51.json",
+      "file": "resources/ImplementationGuide/smart.who.int.dak-smbp.json",
       "source": "fsh-generated/resources/ImplementationGuide-smart.who.int.dak-smbp.json"
     }
   ]
