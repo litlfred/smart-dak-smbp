@@ -1,0 +1,15 @@
+{
+  "branch": "claude/publish-link-mounts",
+  "sha": "7bfd81d",
+  "built": "2026-11-10T20:03:14Z",
+  "pr": "3",
+  "prUrl": "https://github.com/litlfred/smart-dak-smbp/pull/3",
+  "branchUrl": "https://github.com/litlfred/smart-dak-smbp/tree/claude/publish-link-mounts",
+  "issue": null,
+  "issueUrl": null,
+  "runUrl": "https://github.com/litlfred/smart-dak-smbp/commit/7bfd81d89dfc8919b0207a6957794a266a59a0e3",
+  "mainSite": "https://litlfred.github.io/smart-dak-smbp/",
+  "beforeRef": "main",
+  "mainPagesKnown": false,
+  "newPages": []
+}
