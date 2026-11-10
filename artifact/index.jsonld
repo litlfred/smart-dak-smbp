@@ -25,6 +25,9 @@
       "dcterms:description": "SMART Digital Adaptation Kit (DAK) for self-monitoring of blood pressure in pregnancy (SMBP)",
       "schema:sameAs": {
         "@id": "http://smart.who.int/dak-smbp/ImplementationGuide/smart.who.int.dak-smbp"
+      },
+      "schema:contentUrl": {
+        "@id": "../ImplementationGuide-smart.who.int.dak-smbp.json"
       }
     }
   ]
