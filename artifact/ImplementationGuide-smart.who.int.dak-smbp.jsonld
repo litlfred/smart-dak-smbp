@@ -21,7 +21,7 @@
     {
       "@type": "schema:MediaObject",
       "schema:contentUrl": {
-        "@id": "https://raw.githubusercontent.com/litlfred/smart-dak-smbp/ac3f424e84a286d6003166ec4d3a866584f2da9f/resources/ImplementationGuide/smart.who.int.dak-smbp--394d9c51.json"
+        "@id": "https://raw.githubusercontent.com/litlfred/smart-dak-smbp/aa882ec4939fd781cd88751b7a3afce44a7e4360/resources/ImplementationGuide/smart.who.int.dak-smbp.json"
       },
       "schema:encodingFormat": "application/fhir+json",
       "dcterms:source": "local"
@@ -30,7 +30,7 @@
   "prov:wasGeneratedBy": {
     "@type": "prov:Activity",
     "schema:instrument": "ig-publisher 3.0.0 / core 7.0.1",
-    "prov:used": "41f88d0d0a9893738be5cc994bde101f0041aff2"
+    "prov:used": "6c0d8137a4895fb8a563e277e20fe4e9997b437e"
   },
   "dcterms:isPartOf": {
     "@type": "fhir:ImplementationGuide",

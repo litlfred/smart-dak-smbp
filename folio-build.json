@@ -2,16 +2,16 @@
   "$schema": "folio-site-build/v1",
   "instance": "smart-dak-smbp",
   "platform": {
-    "commit": "a6753f2fda6b5b67e00bec86a7e09506f86af327"
+    "commit": "3ef7ce3db54f709bc559fb458fa5b6e4fb6baa78"
   },
   "source": {
     "repo": "litlfred/smart-dak-smbp",
     "ref": "main",
-    "commit": "6f18542ecd03c165a27afe2129132c3023752399"
+    "commit": "6c0d8137a4895fb8a563e277e20fe4e9997b437e"
   },
-  "builtAt": "2026-11-10T20:11:04.007Z",
+  "builtAt": "2026-11-10T22:55:11.283Z",
   "ast": {
-    "commit": "41f88d0d0a9893738be5cc994bde101f0041aff2",
+    "commit": "6c0d8137a4895fb8a563e277e20fe4e9997b437e",
     "verdict": "valid",
     "kind": "full"
   }

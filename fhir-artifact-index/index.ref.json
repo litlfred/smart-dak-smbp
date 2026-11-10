@@ -1,0 +1,7 @@
+{
+  "$schema": "fhir-artifact-index-ref/v1",
+  "index": "https://raw.githubusercontent.com/litlfred/smart-dak-smbp/aa882ec4939fd781cd88751b7a3afce44a7e4360/fhir-artifact-index/index.json",
+  "base": "https://raw.githubusercontent.com/litlfred/smart-dak-smbp/aa882ec4939fd781cd88751b7a3afce44a7e4360/",
+  "repository": "litlfred/smart-dak-smbp",
+  "commit": "aa882ec4939fd781cd88751b7a3afce44a7e4360"
+}
