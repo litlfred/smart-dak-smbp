@@ -17,7 +17,7 @@
   "schema:numberOfItems": 1,
   "schema:hasPart": [
     {
-      "@id": "ImplementationGuide-smart.who.int.dak-smbp.jsonld",
+      "@id": "ImplementationGuide-smart.who.int.dak-smbp",
       "@type": "fhir:ImplementationGuide",
       "dcterms:identifier": "ImplementationGuide/smart.who.int.dak-smbp",
       "dcterms:title": "SMART DAK SMBP",

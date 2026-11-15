@@ -1,0 +1,15 @@
+{
+ "$schema": "fhir-harness/page-render-qa/v1",
+ "generatedAt": "2026-11-15T17:06:20.735Z",
+ "scanned": 47,
+ "unfinished": [],
+ "findings": [
+  {
+   "page": "license.html",
+   "markup": [
+    "HTML tag"
+   ],
+   "excerpt": "</div>"
+  }
+ ]
+}
